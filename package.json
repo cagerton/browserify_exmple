@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "grunt-browserify": "^3.0.1"
+  }
+}
